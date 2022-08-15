@@ -16,3 +16,21 @@ The first assignment of Course 4. Here, I built an English-to-German neural mach
 <li>understand how attention works</li>
 <li>build the NMT model from scratch using Trax</li>
 <li>generate translations using greedy and Minimum Bayes Risk (MBR) decoding</li>
+
+
+
+## Assignment 2: Transformer Summarizer
+The second assignment of course 4. In this assignment I explored summarization using the transformer model. I implemented the transformer decoder from scratch.<br>
+Summarization is an important task in natural language processing and could be useful for a consumer enterprise. For example, bots can be used to scrape articles, summarize them, and then you can use sentiment analysis to identify the sentiment about certain stocks. Anyways who wants to read an article or a long email today, when you can build a transformer to summarize text for you. By completing this assignment I learnt to:
+
+<li>Use built-in functions to preprocess your data</li>
+<li>Implement DotProductAttention</li>
+<li>Implement Causal Attention</li>
+<li>Understand how attention works</li>
+<li>Build the transformer model</li>
+<li>Evaluate your model</li>
+<li>Summarize an article</li>
+
+
+
+
