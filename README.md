@@ -33,4 +33,16 @@ Summarization is an important task in natural language processing and could be u
 
 
 
+## Assignment 3: Question Answering
+The third assignment of course 4. In this assignment I explored question answering. I implemented the "Text to Text Transfer from Transformers" (better known as T5). Since I implemented transformers from scratch last week I was able to use them.
+
+Due to memory and time constraints of this environment I was not able to train a model and use it for inference. Instead I created the necessary building blocks for the transformer encoder model and used a pretrained version of the same model in two ungraded labs after this assignment.
+
+After completing these 3 (1 graded and 2 ungraded) labs I:
+
+<li>Implement the code neccesary for Bidirectional Encoder Representation from Transformer (BERT).</li>
+<li>Understand how the C4 dataset is structured.</li>
+<li>Use a pretrained model for inference.</li>
+<li>Understand how the "Text to Text Transfer from Transformers" or T5 model works.</li>
+
 
