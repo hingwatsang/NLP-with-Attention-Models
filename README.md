@@ -46,3 +46,13 @@ After completing these 3 (1 graded and 2 ungraded) labs I:
 <li>Understand how the "Text to Text Transfer from Transformers" or T5 model works.</li>
 
 
+
+
+## Assignment 4: Chatbot
+The fourth assignment of Course 4. In this assignment, I used the Reformer, also known as the efficient Transformer, to generate a dialogue between two bots. I feed conversations to my model and it learnt how to understand the context of each one. Not only will it learn how to answer questions but it will also know how to ask questions if it needs more info. For example, after a customer asks for a train ticket, the chatbot can ask what time the said customer wants to leave. I can use this concept to automate call centers, hotel receptions, personal trainers, or any type of customer service. By completing this assignment, I :
+
+<li>Understand how the Reformer works</li>
+<li>Explore the MultiWoz dataset</li>
+<li>Process the data to feed it into the model</li>
+<li>Train your model</li>
+<li>Generate a dialogue by feeding a question to the model</li>
